@@ -1,0 +1,84 @@
+.random{
+  text-align: center;
+  color: red;
+}
+.random1{
+  text-align: center;
+}
+body {
+  text-align: center;
+  background-color: #37405B;
+}
+
+h1 {
+  font-size: 5rem;
+  color: lightpink;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: white;
+}
+
+.w {
+  background-image: url("images/d1.png");
+}
+
+.a {
+  background-image: url("images/d2.png");
+}
+
+.s {
+  background-image: url("images/d3.png");
+}
+
+.d {
+  background-image: url("images/d4.png");
+}
+
+.j {
+  background-image: url("images/d5.png");
+}
+
+.k {
+  background-image: url("images/d6.png");
+}
+
+.l {
+  background-image: url("images/d7.png");
+}
+
+.set1 {
+  margin:10% auto;
+}
+.set {
+  margin: 10% auto;
+}
+
+/* applies shadow and transparency */
+.pressed {
+  box-shadow: 0 3px 4px 0 white;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 9px solid #32e0c4;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 170px;
+  height: 165px;
+  text-align: center;
+  margin: 10px;
+  background-color: #37405B;
+}
